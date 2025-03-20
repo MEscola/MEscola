@@ -7,7 +7,7 @@
 
 <div align="center">
 
- 🔭 Desenvolvedora Back-end | Java Script | Node.js
+ 🔭 HTML| CSS | Java Script | Node.js
  
 🌱 Também estou estudando React e Angular
 
