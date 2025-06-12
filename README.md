@@ -7,14 +7,15 @@
 
 <div align="center">
 
- 🔭 HTML| CSS | Java Script | Node.js
- 
-🌱 Também estou estudando React e Angular
-
 💬 Estudante de Análise e Desenvolvimento de Sistemas
 
 📌 AWS Certified Cloud Practitioner.
+
+🔭 HTML| CSS | Java Script | Node.js
  
+🌱 Também estou estudando React e Angular
+
+
 😄 Pronouns: Ela/Dela
 </div>
 
