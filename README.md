@@ -1,42 +1,43 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Marcia+Escol%C3%A1stico!+%F0%9F%92%BB" alt="Typing SVG">
+<h1 align="center">👩‍💻 Márcia Escolástico</h1>
 
-  </a>
+<p align="center">
+Desenvolvedora em formação | APIs REST | Java | Python | Cloud | Node.js | React
 </p>
 
-<div align="center">
+---
 
-💬 Estudante de Análise e Desenvolvimento de Sistemas
+## 🚀 Sobre mim
 
-📌 AWS Certified Cloud Practitioner.
+Sou estudante de Análise e Desenvolvimento de Sistemas com experiência no desenvolvimento de APIs utilizando Node.js e conhecimento em desenvolvimento web com HTML, CSS, JavaScript e React.
 
-🔭 HTML| CSS | Java Script | Node.js
- 
-🌱 Também estou estudando React e Angular
+Tenho prática com consumo de APIs, versionamento com Git e construção de aplicações web. Também possuo certificação AWS Cloud Practitioner e experiência com projetos em nuvem.
+
+---
+
+## 🛠️ Tecnologias
+
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Backend:** Java, Python,Node.js (APIs REST)  
+- **Banco de dados:** SQL, MongoDB  
+- **Cloud:** AWS, OCI  
+- **Ferramentas:** Git, GitHub  
+
+---
 
 
-😄 Pronouns: Ela/Dela
-</div>
+## 📊 Estatísticas
 
-<div align="center">
-   <a href="https://github.com/MEscola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MEscola&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEscola&layout=compact&theme=radical" />
-</div>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MEscola&show_icons=true&theme=radical" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MEscola&layout=compact&theme=radical" />
+</p>
 
-  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/AWS-Dark.svg">
+---
 
-</div>
+## 📫 Contato
 
-<p></p>
-  <div align="center"> 
-  <a href="https://www.linkedin.com/in/marcia-escolastico-44882436/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- <!-- <a href="https://github.com/marciaescolastico"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white"></a>-->
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/marcia-escolastico-44882436/">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
