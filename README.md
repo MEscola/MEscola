@@ -8,7 +8,13 @@ Desenvolvedora em formação | Desenvolvimento Backend | APIs REST | Cloud | Doc
 
 ## 🚀 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, buscando consolidar conhecimentos em desenvolvimento de software, arquitetura de aplicações e computação em nuvem.Possuo experiência no desenvolvimento e manutenção de APIs, integração de sistemas e atuação em equipes ágeis. Também tenho prática com consumo de APIs, versionamento com Git e construção de aplicações web.Tenho prática com consumo de APIs, versionamento com Git e construção de aplicações web. Também possuo certificação AWS Cloud Practitioner e experiência com projetos em nuvem.Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, arquitetura de aplicações e computação em nuvem, colocando os conceitos em prática por meio de projetos pessoais e estudos contínuos.
+Sou estudante de Análise e Desenvolvimento de Sistemas, buscando consolidar conhecimentos em desenvolvimento de software, arquitetura de aplicações e computação em nuvem.
+
+Possuo experiência no desenvolvimento e manutenção de APIs, integração de sistemas e atuação em equipes ágeis. Também tenho prática com consumo de APIs, versionamento com Git e construção de aplicações web.
+
+Possuo certificação AWS Cloud Practitioner e conhecimentos em tecnologias cloud, aplicados tanto em experiências profissionais quanto em projetos pessoais.
+
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software, arquitetura de aplicações e computação em nuvem, colocando os conceitos em prática por meio de projetos pessoais e estudos contínuos.
 
 ---
 
@@ -48,12 +54,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, buscando consolidar con
 
 - AWS Certified Cloud Practitioner
 - Oracle Cloud Infrastructure Foundations Associate
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MEscola&theme=radical" />
-</p>
 
 ---
 
